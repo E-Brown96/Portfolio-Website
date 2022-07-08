@@ -176,7 +176,7 @@ body .about-me img {
 
 .container {
 	max-width:1000px;
-    margin-bottom: 5rem;
+    margin-bottom: 10rem;
 }
 
 #contact input[type="text"], #contact input[type="email"], #contact input[type="tel"], #contact input[type="url"], #contact textarea, #contact button[type="submit"] { font:400 24px/24px 'Exo 2', sans-serif; }
